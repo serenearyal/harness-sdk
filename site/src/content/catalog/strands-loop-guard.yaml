@@ -1,0 +1,8 @@
+name: strands-loop-guard
+description: Stops an agent that repeats the same tool calls - a note on the first repeat, then the turn ends - so a looping run does not burn its cycle budget.
+integrationType: plugin
+languages:
+  python:
+    package: strands-loop-guard
+github: https://github.com/serenearyal/strands-loop-guard
+addedDate: 2026-10-08
